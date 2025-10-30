@@ -32,3 +32,5 @@ To create a **sustainable, transparent, and decentralized** ecosystem that motiv
 - **Blockchain Platform:** Ethereum / EVM-compatible networks
 - **Tools:** Remix IDE, Hardhat, or Truffle
 Contrat address:0x246a7d2f5CC2E2Aaf3B8b9DD10D9DfB00cD1CD8c
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d9b05e46-c298-49c9-9957-4f4775ca9b10" />
+
