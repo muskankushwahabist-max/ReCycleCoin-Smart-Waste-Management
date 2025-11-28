@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /**
  * @title ReCycleCoin Smart Waste Management
- * @dev A blockchain-based reward system that incentivizes users for proper waste disposal using ReCycleCoins.
+ * @dev A blockchain-based reward system that  incentivizes users for proper waste disposal using ReCycleCoins.
  */
 contract ReCycleCoin {
     address public owner;
